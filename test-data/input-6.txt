@@ -1,0 +1,3 @@
+# T6: SINGLE - for the first time, but the primary is empty: the secondary is fired
+GT4500,0,0,10,0
+TORPEDO,SINGLE  # primary is empty, secondary

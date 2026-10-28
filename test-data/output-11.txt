@@ -1,0 +1,4 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO,ALL (only secondary fired)
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO,ALL (only primary fired)

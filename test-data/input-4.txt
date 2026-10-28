@@ -1,0 +1,4 @@
+# T4: SINGLE - if the secondary (next in line) is empty, the primary is fired again
+GT4500,10,0,0,0
+TORPEDO,SINGLE  # primary
+TORPEDO,SINGLE  # secondary is empty, primary again

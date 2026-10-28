@@ -1,0 +1,7 @@
+# T2: SINGLE - torpedo stores are fired alternating
+# Primary never fails, secondary always fails: the results must alternate
+GT4500,10,0,10,1
+TORPEDO,SINGLE  # primary
+TORPEDO,SINGLE  # secondary
+TORPEDO,SINGLE  # primary
+TORPEDO,SINGLE  # secondary

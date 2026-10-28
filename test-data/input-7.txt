@@ -1,0 +1,3 @@
+# T7: SINGLE - both stores are empty: no torpedo can be fired
+GT4500,0,0,0,0
+TORPEDO,SINGLE

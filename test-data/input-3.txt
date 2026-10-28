@@ -1,0 +1,5 @@
+# T3: SINGLE - if the fired store reports a failure, the other one is not fired
+# Primary always fails, secondary never fails
+GT4500,10,1,10,0
+TORPEDO,SINGLE  # primary fails, secondary must not be tried
+TORPEDO,SINGLE  # next in line is the secondary

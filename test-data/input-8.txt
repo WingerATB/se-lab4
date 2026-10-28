@@ -1,0 +1,7 @@
+# T8: SINGLE - stores run out one after the other
+# 2 primary + 1 secondary torpedo: three successful shots, then failure
+GT4500,2,0,1,0
+TORPEDO,SINGLE  # primary
+TORPEDO,SINGLE  # secondary
+TORPEDO,SINGLE  # primary
+TORPEDO,SINGLE  # both stores are empty
