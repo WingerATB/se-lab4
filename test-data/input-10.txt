@@ -1,0 +1,5 @@
+# T10: ALL - success if at least one store fired successfully (one store fails)
+GT4500,10,1,10,0
+TORPEDO,ALL  # primary fails, secondary succeeds
+GT4500,10,0,10,1
+TORPEDO,ALL  # primary succeeds, secondary fails

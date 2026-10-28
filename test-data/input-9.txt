@@ -1,0 +1,5 @@
+# T9: ALL - both stores are fired
+# 1 torpedo in each store: after one ALL shot both stores must be empty
+GT4500,1,0,1,0
+TORPEDO,ALL     # fires both stores
+TORPEDO,SINGLE  # both stores should be empty now

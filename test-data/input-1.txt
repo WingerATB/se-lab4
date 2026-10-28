@@ -1,0 +1,4 @@
+# T1: SINGLE - for the first time the primary store is fired
+# Secondary always fails, so SUCCESS proves that the primary was fired
+GT4500,10,0,10,1
+TORPEDO,SINGLE  # should fire the primary store

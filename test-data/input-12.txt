@@ -1,0 +1,5 @@
+# T12: ALL - no torpedo fired successfully: the result is a failure
+GT4500,10,1,10,1
+TORPEDO,ALL  # both stores fail
+GT4500,0,0,0,0
+TORPEDO,ALL  # both stores are empty
